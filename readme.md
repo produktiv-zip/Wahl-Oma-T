@@ -1,7 +1,7 @@
 
 # Wahl-Oma-T - Ein Wahlomat für die Wahlen der Hiberniaschule
 
-## Ein Fork vom Mat-O-Wahl von Mathias Steudtner ( mathias . steudtner (a) gmx . net )
+## Ein Fork vom Mat-O-Wahl von Mathias Steudtner (mathias.steudtner@gmx.net)
 
 ## BEDIENUNG / INSTALLATION
 
