@@ -1,10 +1,7 @@
-*ENGLISH DESCRIPTION at the end of the German text*
 
-# Mat-O-Wahl - Ein einfach zu bedienender, freier Wahl-O-Mat Klon für jedermann
+# Wahl-Oma-T - Ein Wahlomat für die Wahlen der Hiberniaschule
 
-## LIVE-DEMO
-
-https://www.mat-o-wahl.de/ -> Ausprobieren (DE) :beer:
+## Ein Fork vom Mat-O-Wahl von Mathias Steudtner ( mathias . steudtner (a) gmx . net )
 
 ## BEDIENUNG / INSTALLATION
 
@@ -27,7 +24,7 @@ https://www.mat-o-wahl.de/ -> Ausprobieren (DE) :beer:
 - **kein** npm, yarn oder eine andere Paketverwaltung nötig
 - Wissen, wie man eine **Textdatei** und/oder eine Tabellenkalkulation öffnet
 
-## Mat-o-Wahl und DSGVO
+## Wahl-Oma-T und DSGVO
 
 - Alle **Verarbeitungen** passieren **innerhalb des Browsers** des Nutzers
 - **keine Datenerhebung auf dem Server** (nur optional für eine Statistik - Ausnahme: Standardmäßige Erfassung der Zugriffe durch den Webhosting-Anbieter, z.B. IP-Adresse und Uhrzeit)
@@ -51,55 +48,3 @@ Wenn Sie den Mat-O-Wahl einsetzen, würde ich mich über eine **kurze Mitteilung
 mathias . steudtner (a) gmx . net
 
 ---
-
-# Mat-O-Wahl (*) - A simple to handle, free "Voting Advice Application" / "Electoral Compass" for everybody 
-
-## LIVE-DEMO
-
-https://www.mat-o-wahl.de/ -> Try It (EN) :hamburger:
-
-## USE / INSTALLATION
-
-1. **Download and unpack** ZIP archive
-    (Github -> top right -> Code -> Download ZIP)
-
-2. **Edit** `/DATA/DEFINITION.JS` with a text-editor (best use one with syntax-highlighting).
-
-3. **Edit** `CSV-text file` for questions and answers with a text-editor or spread-sheet-software (MS Excel. LO Calc, ...)
-
-4. **Test settings** using `INDEX.HTML` or `QUICKTEST.HTML`
-   (works best on http://localhost/ or your private webspace)
-
-**Optional:** You can find some **extensions** in the folder `/EXTRAS`. It adds some more functionality to the program, if needed. (e.g. filter of results, pre-question, include the program within an iframe)
-
-## PREREQUISITES
-
-- some **web-space** (a cheap shared-hosting plan is sufficient)
-- **no** PHP or MySQL / MariaDB needed (optional for statistics)
-- **no** npm or any other packaging manager needed
-- knowing, how to **open a text-file** and/or a spread-sheet-software 
-
-## Mat-o-Wahl and GDPR
-
-- All **evaluations** happen **inside the user's browsers**
-- **No data** is collected **on a server** (optional for statistics - Exception: default access-logging by your webhosting-provider, i.e. IP-address and time)
-- No external files (e.g. Content Delivery Network / CDN, Bootstrap, jQuery, no Social Media-plugin) - all included 
-
-## LICENSE
-
-GPL 3 (see folder /SYSTEM or http://choosealicense.com/licenses/gpl-v3/)
-- Required: Disclose Source, License and copyright notice, State Changes 
-- Permitted: Commercial Use, Distribution, Modification, Patent Use, Private Use 
-- Forbidden: Hold Liable
-
-## HELP / CONTACT / CHANGELOG
-
-- You can find further information and documentation on-line at https://www.mat-o-wahl.de
-- or via email (see below)
-- Changes to earlier versions in the changelog https://github.com/msteudtn/Mat-O-Wahl/blob/master/system/changelog.md
-
-If you should find Mat-O-Wahl useful, I would be happy about a **short notice from you** by email.
-
-mathias . steudtner (a) gmx . net
-
-(*) derived from the German project "Wahl-O-Mat" (Wahl-Automat) / "Vote-Machine"
